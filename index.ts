@@ -8,7 +8,7 @@ if (process.env.NODE_ENV === "development") {
   url = "http://localhost:3001";
   // Code to run in development environment
 } else {
-  url = "http://erp2.ceyinfo.cloud";
+  url = "https://erp.ceyinfo.cloud";
 
   // Code to run in production environmentds
 }
